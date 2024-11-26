@@ -1,4 +1,3 @@
 pandas
 numpy
--e .
 seaborn
